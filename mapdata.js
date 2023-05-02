@@ -8,10 +8,10 @@ var simplemaps_worldmap_mapdata={
     popups: "detect",
     
     //State defaults
-    state_description: "State description",
+    state_description: "Become the first Web3 Evangelist in your region!",
     state_color: "#161616",
     state_hover_color: "#161616",
-    state_url: "https://www.web3evangelists.org/",
+    state_url: "https://bit.ly/W3E-apply",
     border_size: 1.5,
     all_states_inactive: "no",
     all_states_zoomable: "no",
@@ -273,7 +273,11 @@ var simplemaps_worldmap_mapdata={
       hover_color: "#226f68"
     },
     IN: {
-      name: "India"
+      name: "India",
+      color: "#34aea2",
+      hover_color: "#226f68",
+      description: "Web3 Evangelists",
+      url: "https://www.web3evangelists.org/india"
     },
     IE: {
       name: "Ireland"
@@ -327,11 +331,7 @@ var simplemaps_worldmap_mapdata={
       name: "Cambodia"
     },
     KR: {
-      name: "Republic of Korea",
-      url: "www.web3evangelists.org/south-korea",
-      color: "#34aea2",
-      hover_color: "#226f68",
-      description: "Web3 Evangelists"
+      name: "Republic of Korea"
     },
     XK: {
       name: "Kosovo"
@@ -450,7 +450,11 @@ var simplemaps_worldmap_mapdata={
       name: "Peru"
     },
     PH: {
-      name: "Philippines"
+      name: "Philippines",
+      color: "#34aea2",
+      hover_color: "#226f68",
+      description: "Web3 Evangelists",
+      url: "https://www.web3evangelists.org/philippines"
     },
     PG: {
       name: "Papua New Guinea"
@@ -535,11 +539,7 @@ var simplemaps_worldmap_mapdata={
       name: "Togo"
     },
     TH: {
-      name: "Thailand",
-      url: "https://www.web3evangelists.org/thailand",
-      color: "#34aea2",
-      hover_color: "#226f68",
-      description: "Web3 Evangelists"
+      name: "Thailand"
     },
     TJ: {
       name: "Tajikistan"
@@ -554,14 +554,14 @@ var simplemaps_worldmap_mapdata={
       name: "Tunisia"
     },
     TR: {
-      name: "Turkey",
-      url: "https://www.web3evangelists.org/turkey",
-      color: "#34aea2",
-      hover_color: "#226f68",
-      description: "Web3 Evangelists"
+      name: "Turkey"
     },
     TW: {
-      name: "Taiwan"
+      name: "Taiwan",
+      color: "#34aea2",
+      hover_color: "#226f68",
+      description: "Web3 Evangelists",
+      url: "https://www.web3evangelists.org/taiwan"
     },
     TZ: {
       name: "Tanzania"
